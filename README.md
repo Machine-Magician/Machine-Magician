@@ -41,11 +41,20 @@ GitHub Stats	Top Languages
 <a href="https://kaggle.com/vasyaresrim"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a>
 Kaggle Rank: [Ваш ранг]
 
-📫 How to reach me: AndegraundVR@gmail.com
+📫 How to reach me: Matematika1110@gmail.com
+
+
 
 📫 Connect with Me
+📧 How to reach me: Matematika1110@gmail.com
 
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+🐙 GitHub: github.com/Machine-Magician
+
+📊 Kaggle: kaggle.com/vasyarestrim
+
+🥇 Kaggle
 https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
 
+📈 GitHub Stats
+GitHub Stats	Top Languages
+<img src="https://github-readme-stats.vercel.app/api?username=Machine-Magician&show_icons=true&theme=dark" width="400">	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-Magician&layout=compact&theme=dark" width="400">
