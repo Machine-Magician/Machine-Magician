@@ -1,4 +1,6 @@
 👋 Hello! I'm Viktor
+
+
 🚀 Data Scientist | ML Engineer | Python Developer
 🔭 Currently working on: Machine Learning projects and Data Analysis
 
@@ -8,7 +10,7 @@
 
 💬 Ask me about: Python, SQL, Pandas, ML algorithms
 
-📫 How to reach me: AndegraundVR@gmail.com
+
 
 ⚡ Fun fact: I love solving complex problems with data!
 
@@ -39,7 +41,11 @@ GitHub Stats	Top Languages
 <a href="https://kaggle.com/vasyaresrim"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a>
 Kaggle Rank: [Ваш ранг]
 
+📫 How to reach me: AndegraundVR@gmail.com
+
 📫 Connect with Me
-<a href="mailto:AndegraundVR@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Machine-Magician"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://kaggle.com/vasyaresrim"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a>
-⭐️ From Machine-Magician
+
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
 
