@@ -25,7 +25,11 @@ Neural Networks Specializations
 <img align="left" alt="Generative AI" width="32px" src="https://raw.githubusercontent.com/openai/gpt-3/master/images/icon.png" /> <img align="left" alt="NLP" width="32px" src="https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/transformers_logo.png" /> <img align="left" alt="RL" width="32px" src="https://raw.githubusercontent.com/openai/gym/master/gym-logo.png" /> <img align="left" alt="Transformers" width="32px" src="https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/huggingface_logo.png" /><br> <br>
 MLOps & Deployment
 <img align="left" alt="TensorRT" width="32px" src="https://developer.nvidia.com/sites/default/files/akamai/nvidia_tensorrt_logo.png" /> <img align="left" alt="TF Serving" width="32px" src="https://raw.githubusercontent.com/tensorflow/serving/master/tensorflow_serving/g3doc/img/tf_serving_logo.png" /> <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="VS Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br> <br> <br>
+
+
+
 📊 Specializations
+
 🖼️ Computer Vision: Object Detection (YOLO, SSD), Image Segmentation, Face Recognition
 
 🤖 Generative AI: GANs, VAEs, Diffusion Models
@@ -34,12 +38,6 @@ MLOps & Deployment
 
 🎮 Reinforcement Learning: DQN, PPO, A3C, Multi-Agent Systems
 
-📈 GitHub Stats
-GitHub Stats	Top Languages
-<img src="https://github-readme-stats.vercel.app/api?username=Machine-Magician&show_icons=true&theme=dark" width="400">	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-Magician&layout=compact&theme=dark" width="400">
-🥇 Kaggle
-<a href="https://kaggle.com/vasyaresrim"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a>
-Kaggle Rank: [Ваш ранг]
 
 
 
@@ -49,7 +47,7 @@ Kaggle Rank: [Ваш ранг]
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Machine-Magician)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vasyarestrim)
 
-**Или текстом (для надежности):**
+**Or like this:**
 
 📬 **Email:** [Matematika1110@gmail.com](mailto:Matematika1110@gmail.com)  
 🐙 **GitHub:** [github.com/Machine-Magician](https://github.com/Machine-Magician)  
